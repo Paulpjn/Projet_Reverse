@@ -65,10 +65,7 @@ int setup_serial_port(const char *port_name) {
     return fd;
 }
 
-// Fonction pour envoyer des données sur le port série
-int write_serial_port(int fd, const char *data) {
-    return write(fd, data, strlen(data)+1);
-}
+
 
 // Fonction pour vérifier si la commande est valide (seulement les commandes du microcontrôleur)
 int is_microcontroller_command_valid(const char *input) {
