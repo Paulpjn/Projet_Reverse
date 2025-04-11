@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/guardia.dir/main.c.o -o guardia 

@@ -1,3 +1,0 @@
-/home/ubuntu/Documents/build/CMakeFiles/guardia.dir
-/home/ubuntu/Documents/build/CMakeFiles/edit_cache.dir
-/home/ubuntu/Documents/build/CMakeFiles/rebuild_cache.dir
